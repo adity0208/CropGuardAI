@@ -40,3 +40,7 @@ CropGuardAI is a lightweight deep learning model designed to detect and classify
 ```bash
 pip install tflite-runtime numpy pillow
 ```
+## 🌐 Live Demo
+
+[![Open in Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/Adityakushwh/CropGuardAI)
+[![Open in Colab](https://img.shields.io/badge/📓%20Colab-Training%20Notebook-orange)](https://colab.research.google.com/github/adity0208/CropGuardAI/blob/main/notebooks/cropguardai_training.ipynb)
